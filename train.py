@@ -77,6 +77,7 @@ model = build_model(input_shape=(X_train.shape[1],))
 # Treinamento do modelo
 trained_model = train_model(model, X_train, y_train)
 
+
 #--------------------older--------------------------------------
 
 # import tensorflow as tf
