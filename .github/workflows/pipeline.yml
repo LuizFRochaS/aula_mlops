@@ -27,4 +27,5 @@ jobs:
 
           - name: Train Model
             run: |
-              python train.py
+              # python train.py
+              python model_training.py
