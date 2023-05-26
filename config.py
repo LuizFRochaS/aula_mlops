@@ -1,0 +1,3 @@
+MLFLOW_TRACKING_URI = 'https://dagshub.com/luizfrs.it/mlops_18-05-23.mlflow'
+MLFLOW_TRACKING_USERNAME = 'luizfrs.it'
+MLFLOW_TRACKING_PASSWORD = '839c9880f528ea437ad44ed37dc48365f765c235'
